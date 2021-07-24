@@ -1,0 +1,15 @@
+artifact_uri: file:///home/talha/tact/mlflow/mlruns/0/34695724ff02472e89d28f6e041809ad/artifacts
+end_time: 1623215221704
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+name: ''
+run_id: 34695724ff02472e89d28f6e041809ad
+run_uuid: 34695724ff02472e89d28f6e041809ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1623215221516
+status: 3
+tags: []
+user_id: talha
